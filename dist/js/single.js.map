@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://arashWebpack/./src/js/single.js"],"names":["console","log"],"mappings":";;;;;AAAAA,OAAO,CAACC,GAAR,CAAY,2BAAZ,E","file":"js/single.js","sourcesContent":["console.log('Hello From Single js yess')"],"sourceRoot":""}
